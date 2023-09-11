@@ -1,0 +1,35 @@
+.footer{
+    position: relative;
+    left: 24%;
+    width: 100%;
+    width: 1024px;
+    font-size: 12px;
+}
+.footerLists{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footerList{
+    list-style: none;
+    padding: 0;
+}
+
+.footerListItem{
+    margin-bottom: 20px;
+    color: #003580;
+    cursor: pointer;
+
+}
+hr{
+    border: 0.1rem solid lightgray;
+
+}
+.copyright{
+    position: relative;
+    left: 0;
+    color: gray;
+    font-size: 13px;
+}
